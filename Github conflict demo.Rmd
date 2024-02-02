@@ -1,6 +1,6 @@
 ---
 title: "Github Conflict Demo"
-author: "Kuma Luo  credit by Anna Duan"
+author: "Kuma Luo credit by Anna Duan"
 date: "`r Sys.Date()`"
 output:
   html_document:
